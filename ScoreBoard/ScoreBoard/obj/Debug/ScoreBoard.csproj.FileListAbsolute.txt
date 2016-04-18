@@ -1,0 +1,10 @@
+D:\VizC#Pro\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe.config
+D:\VizC#Pro\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.exe
+D:\VizC#Pro\ScoreBoard\ScoreBoard\bin\Debug\ScoreBoard.pdb
+D:\VizC#Pro\ScoreBoard\ScoreBoard\bin\Debug\VizConnectC.dll
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csprojResolveAssemblyReference.cache
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Form1.resources
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.Properties.Resources.resources
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.csproj.GenerateResource.Cache
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.exe
+D:\VizC#Pro\ScoreBoard\ScoreBoard\obj\Debug\ScoreBoard.pdb
