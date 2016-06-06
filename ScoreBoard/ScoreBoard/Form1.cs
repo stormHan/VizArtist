@@ -117,5 +117,12 @@ namespace ScoreBoard
                     g2Numcount = Convert.ToInt16(strBack);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string sr= m_EnginePool.Request("REND*SCRIPT INVOKE test");
+            m_EnginePool.
+            
+        }
     }
 }

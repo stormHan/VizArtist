@@ -43,6 +43,7 @@
             this.cmdLoadData = new System.Windows.Forms.Button();
             this.path = new System.Windows.Forms.TextBox();
             this.lbpath = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // ConnectIp
@@ -74,7 +75,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("SimSun", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label1.Font = new System.Drawing.Font("宋体", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label1.Location = new System.Drawing.Point(80, 231);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(76, 22);
@@ -84,7 +85,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("SimSun", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.label2.Font = new System.Drawing.Font("宋体", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.label2.Location = new System.Drawing.Point(80, 314);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(76, 22);
@@ -163,7 +164,7 @@
             // 
             // cmdLoadData
             // 
-            this.cmdLoadData.Location = new System.Drawing.Point(391, 118);
+            this.cmdLoadData.Location = new System.Drawing.Point(378, 118);
             this.cmdLoadData.Name = "cmdLoadData";
             this.cmdLoadData.Size = new System.Drawing.Size(172, 60);
             this.cmdLoadData.TabIndex = 12;
@@ -188,11 +189,22 @@
             this.lbpath.TabIndex = 14;
             this.lbpath.Text = "Path";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(677, 109);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(103, 69);
+            this.button1.TabIndex = 15;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(888, 496);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lbpath);
             this.Controls.Add(this.path);
             this.Controls.Add(this.cmdLoadData);
@@ -232,6 +244,7 @@
         private System.Windows.Forms.Button cmdLoadData;
         private System.Windows.Forms.TextBox path;
         private System.Windows.Forms.Label lbpath;
+        private System.Windows.Forms.Button button1;
     }
 }
 

@@ -1,0 +1,12 @@
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\bin\Debug\LineUp.exe.config
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\bin\Debug\LineUp.exe
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\bin\Debug\LineUp.pdb
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\bin\Debug\VizConnectC.dll
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.csprojResolveAssemblyReference.cache
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.Form1.resources
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.LineUpForm.resources
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.Properties.Resources.resources
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.csproj.GenerateResource.Cache
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.exe
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.pdb
+C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.changeInfo.resources
