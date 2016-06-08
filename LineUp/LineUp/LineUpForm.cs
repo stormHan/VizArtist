@@ -8,12 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace LineUp
 {
     public partial class LineUpForm : Form
     {
-       static string[] playername = new string[25];
-        string[] image = new string[25];
+       static string[] playername = new string[36];
+        string[] image = new string[36];
 
         
 
@@ -24,8 +25,17 @@ namespace LineUp
         public LineUpForm()
         {
             InitializeComponent();
+
+            Image i;
             playername[1] = "player1";
-           
+            image[1] = "D://Koala.jpg";
+            i = Image.FromFile(image[1]);
+            Pos11.BackgroundImage = i;
+
+            playername[2] = "p2";
+            image[2] = "D://Penguins.jpg";
+            i = Image.FromFile(image[2]);
+            Pos21.BackgroundImage = i;
         }
 
         private void ZhukeCb_SelectedIndexChanged(object sender, EventArgs e)
@@ -93,13 +103,25 @@ namespace LineUp
             }
         }
 
+        public event EventHandler Close;
+
+        void changeInfo_Disposed(object sender, EventArgs e)
+        {
+            playername[1] = CIform.retName;
+            image[1] = CIform.retPath;
+        }
+
+
         private void Pos11_Click(object sender, EventArgs e)
         {
             cur_x = 1;
             cur_y = 1;
 
             CIform = new changeInfo(playername[1], image[1]);
+            //CIform.listener += new ListenerHandler(changeInfo_Disposed);
             CIform.Show();
+
+            
         }
     }
 }
