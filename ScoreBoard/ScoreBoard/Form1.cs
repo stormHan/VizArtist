@@ -121,7 +121,7 @@ namespace ScoreBoard
         private void button1_Click(object sender, EventArgs e)
         {
             string sr= m_EnginePool.Request("REND*SCRIPT INVOKE test");
-            m_EnginePool.
+            
             
         }
     }
