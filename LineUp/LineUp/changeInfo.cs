@@ -17,14 +17,14 @@ namespace LineUp
         public event ListenerHandler listener = null;
 
 
-        public string retPath;
-        public string retName;
+        string retPath;
+        string retName;
         Image img;
-        public changeInfo(string _name, string _imagepath)
+        public changeInfo(ref string _name, ref string _imagepath)
         {
             InitializeComponent();
 
-            retName = _name;
+            retName =  _name;
             retPath =  _imagepath;
 
             Nametb.Text = retName;
