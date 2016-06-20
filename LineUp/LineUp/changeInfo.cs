@@ -20,7 +20,7 @@ namespace LineUp
         public string retPath;
         public string retName;
         Image img;
-        public changeInfo(string _name, string _imagepath)
+        public changeInfo(ref string _name, ref string _imagepath)
         {
             InitializeComponent();
 

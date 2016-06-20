@@ -10,3 +10,14 @@ C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.c
 C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.exe
 C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.pdb
 C:\Users\v_jiaweihan\Documents\GitHub\VizArtist\LineUp\LineUp\obj\Debug\LineUp.changeInfo.resources
+E:\C#\VizArtist-master\LineUp\LineUp\bin\Debug\LineUp.exe.config
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.pdb
+E:\C#\VizArtist-master\LineUp\LineUp\bin\Debug\LineUp.exe
+E:\C#\VizArtist-master\LineUp\LineUp\bin\Debug\LineUp.pdb
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.csprojResolveAssemblyReference.cache
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.changeInfo.resources
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.Form1.resources
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.LineUpForm.resources
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.Properties.Resources.resources
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.csproj.GenerateResource.Cache
+E:\C#\VizArtist-master\LineUp\LineUp\obj\Debug\LineUp.exe
